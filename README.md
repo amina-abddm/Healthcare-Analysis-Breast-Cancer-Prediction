@@ -159,7 +159,7 @@ Healthcare-Analysis-Breast-Cancer-Prediction/
 ```
 ---
 
-## 🚀 Perspectives d’amélioration
+## 🚀 Perspectives d’amélioration
 
 - Comparaison avec d’autres modèles (SVM, Random Forest)
 - Optimisation des hyperparamètres
